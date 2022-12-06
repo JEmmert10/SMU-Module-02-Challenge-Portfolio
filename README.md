@@ -48,6 +48,6 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 My live site URL with my version of completing the challenge and my GitHub repository URL 
 
-https://jemmert10.github.io/SMU-Module-01-Challenge/
+https://jemmert10.github.io/SMU-Module-02-Challenge-Portfolio/
 
 https://github.com/JEmmert10/SMU-Module-02-Challenge-Portfolio.git
